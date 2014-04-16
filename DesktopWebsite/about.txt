@@ -1,0 +1,40 @@
+NEW STUFF
+
+all projects as icons
+
+///////////////////////////////
+windows wallpaper
+standard taskbar size/color
+
+TASKBAR:
+
+btn
+tasks
+sysinfo
+
+USEABLE ICONS:
+
+web projects folder
+graphic design folder
+contact info word file
+about me word file
+
+CLICK EVENTS:
+
+on folder click>
+	launch explorer window
+	list folder contents
+on file click>
+	websites>
+		launch website in IE frame
+		open text file next to it displaying about info
+	graphic design>
+		open in image viewer
+		open text file next to it displaying about info
+on exit click
+	text file>
+		close, leave site open
+	item>
+		close both
+on titlebar click
+	change zindex to bring to front
